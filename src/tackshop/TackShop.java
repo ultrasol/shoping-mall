@@ -15,11 +15,20 @@ public class TackShop {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        
+        showfun();
+        
+        
+    }
+    public static void showfun(){
+        
         // TODO code application logic here
         System.out.println("Hello world");
         System.out.println("Hello world");
         System.out.println("Hello world");
         System.out.println("Hello world");
+        
         
         
     }
